@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="svfpntK2f1PicE5MmpuQ">
-    <mxGraphModel dx="1765" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="642" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
         <mxCell id="K8moGCShRs61EBahucJz-100" edge="1" parent="1" source="K8moGCShRs61EBahucJz-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" target="F5a5h70hoErI4neZ38Uz-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K8moGCShRs61EBahucJz-81" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;container=0;" value="Actor" vertex="1">
+        <mxCell id="K8moGCShRs61EBahucJz-81" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;container=0;" value="Admin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="40" x="320" y="1399" as="geometry" />
         </mxCell>
         <mxCell id="K8moGCShRs61EBahucJz-86" edge="1" parent="1" source="F5a5h70hoErI4neZ38Uz-5" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="F5a5h70hoErI4neZ38Uz-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
